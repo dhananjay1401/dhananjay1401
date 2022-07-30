@@ -1,9 +1,10 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Dhananjay Singh</h1>
+
+<h1 align="center">Hi <img src="./wave.gif" width="30px">, I'm Dhananjay Singh</h1>
 
 
 
-<h5 align="center">A Full-stack Web Developer from India.</h5>
+<h4 align="center">A Full-stack Web Developer from India.</h4>
 
 - 🔭 I’m currently working on **Netflix Clone**
 
