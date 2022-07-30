@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="./wave.gif" width="30px">, I'm Dhananjay Singh</h1>
+<h1 align="center">Hi <img src="./wave.gif" width="30px">, I'm Dhananjay</h1>
 
 
 
